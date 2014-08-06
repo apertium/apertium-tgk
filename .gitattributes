@@ -1,0 +1,5 @@
+* text=auto !eol
+/Makefile -text
+/apertium-tgk.post-tgk.dix -text
+/apertium-tgk.tgk.dix -text
+/tgk.prob -text
